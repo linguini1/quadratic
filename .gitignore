@@ -1,0 +1,7 @@
+# Developer artifacts
+.cache/
+compile_commands.json
+
+# Compilation
+*.o
+quadratic
